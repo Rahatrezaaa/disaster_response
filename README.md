@@ -5,3 +5,4 @@ The purpose of the project is to build a model for an API that classifies disast
 
 The 'app' folder; contains all the frontend files (go.html and master.html) for deployment using plotly/bootstrap
 
+The 'models' folder contains the classifier "train_classifier.py" 
